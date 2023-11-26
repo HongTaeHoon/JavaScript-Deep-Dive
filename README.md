@@ -18,8 +18,8 @@
       <td rowspan="4">1주차 : 변수 </td>
       <td>04장: 변수 ✅</td>
     </tr>
-    <tr><td>13장: 스코프</td></tr>
-    <tr><td>14장: 전역 변수의 문제점</td></tr>
+    <tr><td>13장: 스코프 ✅</td></tr>
+    <tr><td>14장: 전역 변수의 문제점 ✅</td></tr>
     <tr><td>15장: let, const 키워드와 블록 레벨 스코프</td></tr>
     <tr>
       <td rowspan="2">2주차 : 타입과 실행 컨텍스트 (1) </td>
@@ -33,7 +33,7 @@
     <tr><td>23장: 실행 컨텍스트</td></tr>
     <tr>
       <td rowspan="3">4주차 : JavaScript 기초 함수 (1) </td>
-      <td>5장: 표현식과 문</td>
+      <td>5장: 표현식과 문 ✅</td>
     </tr>
     <tr><td>08장: 제어문</td></tr>
     <tr><td>10장: 객체 리터럴</td></tr>
