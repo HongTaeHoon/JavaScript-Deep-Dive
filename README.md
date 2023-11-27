@@ -20,7 +20,7 @@
     </tr>
     <tr><td>13장: 스코프 ✅</td></tr>
     <tr><td>14장: 전역 변수의 문제점 ✅</td></tr>
-    <tr><td>15장: let, const 키워드와 블록 레벨 스코프</td></tr>
+    <tr><td>15장: let, const 키워드와 블록 레벨 스코프 ✅</td></tr>
     <tr>
       <td rowspan="2">2주차 : 타입과 실행 컨텍스트 (1) </td>
       <td>6장: 데이터 타입</td>
