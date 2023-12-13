@@ -30,12 +30,12 @@
       <td rowspan="2">3주차 : 타입과 실행 컨텍스트 (2) </td>
       <td>11장: 원시 값과 객체의 비교 ✅</td>
     </tr>
-    <tr><td>23장: 실행 컨텍스트</td></tr>
+    <tr><td>23장: 실행 컨텍스트 ✅</td></tr>
     <tr>
       <td rowspan="3">4주차 : JavaScript 기초 함수 (1) </td>
       <td>5장: 표현식과 문 ✅</td>
     </tr>
-    <tr><td>08장: 제어문</td></tr>
+    <tr><td>08장: 제어문 ✅</td></tr>
     <tr><td>10장: 객체 리터럴</td></tr>
     <tr>
       <td rowspan="4">5주차 : JavaScript 기초 함수 (2) </td>
