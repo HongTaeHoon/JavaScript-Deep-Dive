@@ -36,7 +36,7 @@
       <td>5장: 표현식과 문 ✅</td>
     </tr>
     <tr><td>08장: 제어문 ✅</td></tr>
-    <tr><td>10장: 객체 리터럴</td></tr>
+    <tr><td>10장: 객체 리터럴 ✅</td></tr>
     <tr>
       <td rowspan="4">5주차 : JavaScript 기초 함수 (2) </td>
       <td>12장: 함수</td>
